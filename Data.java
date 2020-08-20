@@ -13,7 +13,7 @@ interface Data {
 
     class stack<T> implements Data {
 
-        public class  {
+        public class Node {
 
             int data;
             Node next;
